@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,21.4.1 (30)*%
+G04 Layer_Color=8421504*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.SameCoordinates,B516314B-6D7E-4A12-AF4E-A3036E98B02D*%
+%TF.FilePolarity,Positive*%
+%TF.FileFunction,Paste,Top*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,SMDPad,CuDef*%
+%ADD58R,2.60000X1.12000*%
+%ADD59R,7.09000X8.43000*%
+D58*
+X12369000Y2607000D02*
+D03*
+Y2777000D02*
+D03*
+Y2947000D02*
+D03*
+Y3117000D02*
+D03*
+Y3287000D02*
+D03*
+D59*
+X11301500Y2947000D02*
+D03*
+%TF.MD5,dcc6e8c4d1a26ad19934b703c25f1626*%
+M02*

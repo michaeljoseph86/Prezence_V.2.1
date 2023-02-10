@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\michael\Desktop\Hardware_Pojects\Altium_Projects\Prezence_Wiegand (completed)\2_Altium_Files\Prezence_Wiegand\PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb-nonplated.txt|DrillLayers=gtl,gbl
